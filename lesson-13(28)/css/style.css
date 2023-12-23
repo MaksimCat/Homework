@@ -1,0 +1,22 @@
+.some-text {
+    font-family: 'Open Sans', 'Arial' sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+    font-style: italic;
+}
+.sime-text {
+    text-decoration: line-through;
+}
+.same-text {
+    font-family:  serif;
+    text-align: center;
+}
+.ssme-text {
+    text-decoration: overline wavy;
+    word-spacing: 30px;
+}
+.smme-text {
+    letter-spacing: 5px;
+text-decoration: underline double;    
+}
