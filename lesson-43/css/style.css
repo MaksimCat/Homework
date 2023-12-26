@@ -8,6 +8,7 @@ body {
 }
 
 .header {
+    font-family: 'Monrserrat';
     padding: 30px 0 36px;
 }
 
@@ -182,6 +183,7 @@ body {
 }
 
 .footer {
+    font-family: 'Monrserrat';
     border-top: 1px solid #323952;
     padding: 60px 0;
 }
